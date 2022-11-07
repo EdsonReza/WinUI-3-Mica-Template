@@ -9,7 +9,7 @@ By default the nav control is NavigationView, but you can change it to any other
 
 | NavigationView | Pivot | BreadCrumBar |
 |-------------------------|-------------------------|-------------------------|
-![NavigationView](screenshots/NavigationView.png) | ![Pivot](screenshots/Pivot.png) | ![BreadCrumBar](screenshots\BreadcrumbBar.png)
+![NavigationView](screenshots/NavigationView.png) | ![Pivot](screenshots/Pivot.png) | ![BreadCrumBar](screenshots/BreadcrumbBar.png)
 
 ## Issues
 - Nav controls like TaView are usually over the TitleBar, but that is not possible with the actual configuration.
