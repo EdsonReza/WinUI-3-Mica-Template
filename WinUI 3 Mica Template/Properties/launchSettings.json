@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI 3 Mica Template (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI 3 Mica Template (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
